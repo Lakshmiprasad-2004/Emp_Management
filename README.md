@@ -46,9 +46,9 @@ ___
 
 
 
-MVC Architecture: Clear separation between Model, View, and Controller
-Database Integration: CRUD operations with MySQL
-Web Development: JSP, Servlets, HTML, CSS, JavaScript
-Input Validation: Both client-side and server-side
-Report Generation: Dynamic data analysis and presentation
-Professional UI: Responsive design with Bootstrap
+MVC Architecture: Clear separation between Model, View, and Controller                                          
+Database Integration: CRUD operations with MySQL                                             
+Web Development: JSP, Servlets, HTML, CSS, JavaScript                                     
+Input Validation: Both client-side and server-side                                          
+Report Generation: Dynamic data analysis and presentation                                             
+Professional UI: Responsive design with Bootstrap                                                
